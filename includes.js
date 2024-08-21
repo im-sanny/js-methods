@@ -1,3 +1,3 @@
-const animals = ['rabbit', 'cat', 'dog', 'cow', 'goose']
-const add = animals.includes('goat')
+const animals = ["rabbit", "cat", "dog", "cow", "goose"];
+const add = animals.includes("goat");
 console.log(add);
