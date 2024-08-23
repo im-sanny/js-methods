@@ -1,3 +1,3 @@
-const foods = ["rice", "curry", "fish", "meat"];
+const foods = [1, 2, 3, 4];
 console.log(foods);
 console.log(foods.toString());
